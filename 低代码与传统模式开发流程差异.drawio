@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T06:14:06.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BssvpRfjE1QpD_PMXWEd" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T06:14:18.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DMAZ_xLCcoT6-zuoNYUC" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="低代码开发">
     <mxGraphModel dx="886" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="0ERnLuREIVFwd8bxxghm-13" value="应用开发" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1;labelBackgroundColor=default;fontColor=#000333;labelBorderColor=none;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ERnLuREIVFwd8bxxghm-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="640" as="sourcePoint" />
+            <mxPoint x="640" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
