@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T02:24:37.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FdwYB-xi8mRzZVkmy6MC" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-22T02:26:28.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HMYaRm3OErCY64iNe7od" version="24.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="低代码开发">
     <mxGraphModel dx="542" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pk8j_hZ0ME1Itv_fBTPG" name="低代码平台设计">
-    <mxGraphModel dx="363" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,17 +202,11 @@
         <mxCell id="jscywPkhxMiSBtKEuW6--6" value="配置编辑区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6BaC2tT3oHIY4pj8-8o-6">
           <mxGeometry x="370" y="20" width="100" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-7" value="1、渲染引擎： 所见即所得&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="480" width="420" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-7" value="2&lt;span style=&quot;background-color: initial;&quot;&gt;、渲染引擎： 所见即所得&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z6BaC2tT3oHIY4pj8-8o-9" value="多态舞台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-10" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z6BaC2tT3oHIY4pj8-8o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6BaC2tT3oHIY4pj8-8o-11" target="Z6BaC2tT3oHIY4pj8-8o-9">
           <mxGeometry relative="1" as="geometry" />
@@ -225,6 +219,18 @@
         </mxCell>
         <mxCell id="Z6BaC2tT3oHIY4pj8-8o-14" value="渲染引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-17" value="JSON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6BaC2tT3oHIY4pj8-8o-17" target="Z6BaC2tT3oHIY4pj8-8o-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="630" as="sourcePoint" />
+            <mxPoint x="270" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-19" value="渲染引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
