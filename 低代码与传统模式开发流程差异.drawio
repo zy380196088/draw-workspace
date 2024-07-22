@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T02:28:00.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y6irldVhe-Df3et8LQ_g" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-22T02:28:47.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NCoPk7CqI61hlHThmsBE" version="24.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="低代码开发">
     <mxGraphModel dx="542" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -237,6 +237,15 @@
         </mxCell>
         <mxCell id="Z6BaC2tT3oHIY4pj8-8o-21" value="解析方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-22" value="页面呈现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6BaC2tT3oHIY4pj8-8o-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z6BaC2tT3oHIY4pj8-8o-19" target="Z6BaC2tT3oHIY4pj8-8o-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="730" as="sourcePoint" />
+            <mxPoint x="270" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
