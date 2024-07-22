@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T02:07:05.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7GrzmUN1YlaP8_FDNhNb" version="24.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-22T02:07:31.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OV9rqwbwAwjRvY8Vl_UP" version="24.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="低代码开发">
     <mxGraphModel dx="542" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -176,10 +176,10 @@
           <mxGeometry x="220" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jscywPkhxMiSBtKEuW6--5" value="设计台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="240" height="210" as="geometry" />
+          <mxGeometry x="130" y="90" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="jscywPkhxMiSBtKEuW6--6" value="配置编辑区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="120" height="210" as="geometry" />
+          <mxGeometry x="400" y="90" width="100" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
