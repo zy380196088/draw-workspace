@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T01:48:40.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bIQ-vx6y2nGjxVUvOPU4" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T02:07:05.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7GrzmUN1YlaP8_FDNhNb" version="24.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="低代码开发">
     <mxGraphModel dx="542" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -150,10 +150,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpWmaxnUm2hYyFrvzpCg-1" value="配置面板&lt;div&gt;（组件引用、功能配置、布置、数据）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="950" width="210" height="60" as="geometry" />
+          <mxGeometry x="610" y="390" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OpWmaxnUm2hYyFrvzpCg-2" value="配置化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="920" width="70" height="30" as="geometry" />
+          <mxGeometry x="640" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpWmaxnUm2hYyFrvzpCg-3" value="JSON协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pk8j_hZ0ME1Itv_fBTPG" name="低代码平台设计">
+    <mxGraphModel dx="853" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jscywPkhxMiSBtKEuW6--1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jscywPkhxMiSBtKEuW6--2" value="物料区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="80" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jscywPkhxMiSBtKEuW6--3" value="低代码平台设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jscywPkhxMiSBtKEuW6--5" value="设计台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jscywPkhxMiSBtKEuW6--6" value="配置编辑区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
